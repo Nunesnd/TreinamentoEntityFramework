@@ -11,16 +11,12 @@ namespace EntityFramework.Models
 
         [MaxLength(150)]
         [Column("Nome")]
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
 
         [Column("Observacoes", TypeName = "text")]
-        public string Observacoes { get; set; }
+        public string? Observacoes { get; set; }
 
-        public ClienteModel(string nome, string observacoes)
-        {
-            Nome = nome;
-            Observacoes = observacoes;
-        }
+
 
 
     }

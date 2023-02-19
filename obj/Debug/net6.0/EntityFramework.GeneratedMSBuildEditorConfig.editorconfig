@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EntityFramework
 build_property.RootNamespace = EntityFramework
-build_property.ProjectDir = c:\Users\nunes\Documents\Mega pasta pessoal\EntityFramework\
+build_property.ProjectDir = C:\Users\nunes\Documents\Mega pasta pessoal\EntityFramework\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\nunes\Documents\Mega pasta pessoal\EntityFramework
+build_property.MSBuildProjectDirectory = C:\Users\nunes\Documents\Mega pasta pessoal\EntityFramework
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Create.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Delete.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Details.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Edit.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Index.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Home/Index.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/Error.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/_ViewImports.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/_ViewStart.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/_Layout.cshtml]
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8ieqcu8y25
