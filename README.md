@@ -9,9 +9,6 @@
 	dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 6.0.12
 	dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 7.0.3
 
-	dotnet aspnet-codegenerator controller -name ClientesController -m ClienteModel -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
-
-
 	dotnet tool install --global dotnet-ef
 </pre>
 
@@ -36,10 +33,20 @@ dotnet tool install --local dotnet-aspnet-codegenerator --version 6.0.12
 
 </pre>
 
-#Comandos para migração
+#Comandos para migração e scaffold
 <pre>
+	dotnet-ef migrations add ClienteAdd
+	dotnet-ef database update
+	
+	dotnet aspnet-codegenerator controller -name ClientesController -m ClienteModel -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
 
-dotnet-ef migration add ClienteAdd
+	dotnet aspnet-codegenerator controller -name ProdutosController -m ProdutoModel -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
+
+	dotnet aspnet-codegenerator controller -name EnderecosController -m EnderecoModel -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
+
+	dotnet aspnet-codegenerator controller -name PedidosController -m PedidoModel -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
+
+	dotnet aspnet-codegenerator controller -name PedidosProdutosController -m PedidoProdutoModel -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
 </pre>
 
 

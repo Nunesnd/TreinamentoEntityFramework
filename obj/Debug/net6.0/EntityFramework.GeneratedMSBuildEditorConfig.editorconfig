@@ -35,8 +35,68 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/Error.cshtml]
