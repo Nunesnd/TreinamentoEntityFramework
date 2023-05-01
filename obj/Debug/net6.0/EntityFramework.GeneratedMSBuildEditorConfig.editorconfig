@@ -8,113 +8,113 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EntityFramework
 build_property.RootNamespace = EntityFramework
-build_property.ProjectDir = C:\Users\nunes\Documents\Mega pasta pessoal\EntityFramework\
+build_property.ProjectDir = c:\Users\nunes\Documents\Mega pasta pessoal\Laboratorio_CSharp\EntityFramework\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nunes\Documents\Mega pasta pessoal\EntityFramework
+build_property.MSBuildProjectDirectory = c:\Users\nunes\Documents\Mega pasta pessoal\Laboratorio_CSharp\EntityFramework
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Create.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Delete.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Details.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Edit.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Clientes/Index.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Create.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Enderecos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Delete.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Enderecos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Details.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Enderecos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Edit.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Enderecos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Enderecos/Index.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Enderecos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Home/Index.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Create.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Pedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Delete.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Pedidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Details.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Pedidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Edit.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Pedidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Pedidos/Index.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Pedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Create.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Delete.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Details.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Edit.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Produtos/Index.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/Error.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/_ViewImports.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/_ViewStart.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nunes/Documents/Mega pasta pessoal/EntityFramework/Views/Shared/_Layout.cshtml]
+[c:/Users/nunes/Documents/Mega pasta pessoal/Laboratorio_CSharp/EntityFramework/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8ieqcu8y25
